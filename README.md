@@ -1,6 +1,6 @@
 # Go Server
 
-Includes a GraphQL server and a web client.
+GraphQL server with Goland
 ## Run Server
 ```sh
 go run server.go
